@@ -1,1 +1,1 @@
-# resume-html-portfolio
+# resume-html-capstone-project
